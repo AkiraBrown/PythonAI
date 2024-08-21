@@ -10,3 +10,13 @@ Joint python project for learning
 ## Ideas
 
 - Produce a checker that verifies an image is modified or not
+
+## To Run
+
+```bash
+sh start
+```
+
+### Research
+
+- [EXITTOOL](https://exiftool.org/)
